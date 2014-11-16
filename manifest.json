@@ -17,11 +17,6 @@
     "16": "icon.png"
   },
 
-  "page_action": {
-    "default_title": "Convert times!",
-    "default_icon": "icon.png"
-  },
-
   "content_scripts" : [
     {
       "matches" : [
